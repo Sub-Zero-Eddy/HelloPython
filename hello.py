@@ -1,6 +1,8 @@
 
 # string concatenation
 
+print("Hello")
+
 first_name = input("Enter First Name: ")
 last_name = input("Enter Last Name: ")
 city = input("Enter City: ")
